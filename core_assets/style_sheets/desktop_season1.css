@@ -6,8 +6,7 @@ html, body {
   overflow-y: auto;
 }
 body {
-  background-image:
-    url("core_assets/images/newcolorizedbackground - season 1.png");
+  background-image: url("../images/newcolorizedbackground - season 1.png");
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
