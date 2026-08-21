@@ -1,0 +1,194 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+body {
+  background-image:
+    url("newcolorizedbackground - season 1.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+h1 {
+  color: #3A3E44;
+}
+
+h2 {
+  color: #3A3E44;
+}
+
+p {
+  color: #3A3E44;
+}
+.section-break {
+  height: 80px;
+  background-color: transparent;
+}
+small, footer {
+  color: #6A6E75;
+}
+  .content {
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+.contact-section a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+p {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+line-height: 1.5em;
+}
+.note {
+  font-style: italic;
+  color: #6a6a6a;
+}
+.clean-list {
+  list-style-type: none;
+  margin-bottom: 0.6em; 
+  line-height: 1;
+}
+
+.clean-list li {
+  margin-bottom: 0.6em;
+  font-size: 1.2em;
+  color: #3A3E44;
+}
+.form-container {
+  background-color: rgba(75, 79, 86, 0.05);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(75, 79, 86, 0.1);
+  max-width: 700px;
+  margin-left: 40px;
+}
+.embedded-form {
+  max-width: 640px;
+  margin: 0 auto;
+  display: block;
+}
+.content {
+  max-width: 700px;
+  margin-left: 40px;
+  margin-right: auto;
+  padding: 20px;
+}
+.about-podcast,
+.about-host {
+  margin-top: 60px;
+margin-bottom: 40px;
+}
+.contact-section {
+  margin-bottom: 60px;
+}
+a {
+  color: #4B5A6A;
+  text-decoration: none;
+}
+a:hover {
+  color: #6A6E75; 
+  text-decoration: underline;
+}
+.fine-print {
+  font-size: 0.75em;
+  color: #6a6a6a;
+  text-align: center;
+  margin: 10px auto 20px auto;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+.eam-badge {
+  position: relative;
+  display: block;
+  max-height: 80px;
+  margin: 20px auto;
+  opacity: 0.8; 
+}
+body {
+    font-family: Newsreader, serif;
+}
+.season-links a {
+    font-family: 'Banteng Story Regular', cursive;
+}
+.season-links a {
+display: inline-block;     
+text-decoration: none;
+padding: 0.25rem 0.5rem;
+position: absolute;
+}
+
+.season-links a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.tab-container {
+    position: relative;
+    width: 100%;
+    height: 60px;
+}
+.season-links a {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+}
+.tab {
+    position: absolute;
+}
+.tab1 { top: 30px; left: 135px; }
+.tab2 { top: 30px; left: 310px; }
+.tab3 { top: 30px; left: 485px; }
+.tab4 { top: 30px; left: 660px; }
+.tab a {
+font-family: 'Banteng Story Regular', cursive;
+font-size: 26px;
+font-weight: bold;
+text-shadow: 0 0 4px rgba(255, 255, 255, 0.75);
+letter-spacing: 2px;
+text-decoration: none;
+display: inline-block;   
+padding: 2px 4px;        
+color: #333;             
+}
+.tab a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.tab a {
+    font-family: 'Banteng Story Regular', cursive;
+}
+.tab-container {
+    position: relative;
+    width: 1500px; 
+    height: 150px; 
+    margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+  .section-break {
+    height: 60px;
+  }
+  .content {
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  body {
+    background-size: cover;
+    background-position: top;
+  }
+}
+.index-container {
+    background-color: rgba(255, 255, 255, 0.85);
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1.5rem 2rem;
+    border-radius: 6px;
+}
