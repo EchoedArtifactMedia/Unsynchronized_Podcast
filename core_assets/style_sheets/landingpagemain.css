@@ -44,20 +44,20 @@ a:active {
   }
 }
 p {
-  font-family: 'Banteng Story Regular', cursive;
+  font-family: 'Banteng Story', cursive;
   font-size: 2em;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Banteng Story regular', cursive;
+  font-family: 'Banteng Story', cursive;
 }
 body, p {
   color: #4B4F56;
 }
 h1 {
-  color: #3A3E44;
+  color: #cfcfcf;
 }
 h2 {
-  color: #43474D;
+  color: #cfcfcf;
 }
 h3 {
   color: #4B4F56;
