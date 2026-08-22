@@ -20,7 +20,6 @@ a:link {
   color: #FFFFFF !important;
   text-decoration: none;
 }
-
 a:visited {
   color: #4B5A6A !important;
 }
@@ -42,7 +41,6 @@ a:active {
   .nav-links a {
     font-size: 2.5em;
   }
-}
 p {
   font-family: 'Banteng Story', cursive;
   font-size: 2em;
@@ -60,21 +58,12 @@ h2 {
   color: #cfcfcf;
 }
 h3 {
-  color: #4B4F56;
+  color: #cfcfcf;
 }
 h4, h5, h6 {
-  color: #5A5E65;
-}
-}
-.fine-print {
-font-family: 'Newsreader', serif;
-  font-size: 0.75em;
-  color: #6a6a6a;
-  text-align: center;
-  margin: 10px auto 20px auto;
-  margin-bottom: 20px;
-  max-width: 600px;
-}
+  color: #cfcfcf;
+}}
+
 .eam-badge {
   position: relative;
   display: block;
@@ -100,6 +89,15 @@ padding: 2px 4px;
 .tab a:hover {
     text-decoration: underline;
     text-decoration-thickness: 2px;
+}
+  p {
+  font-family: 'Banteng Story', cursive;
+  font-size: 2em;
+    color: #cfcfcf;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Banteng Story', cursive;
+  color: #cfcfcf;
 }
 .tab-container {
     position: relative;
