@@ -63,11 +63,15 @@ p {
   font-family: 'Banteng Story', cursive;
   font-size: 2em;
   color: #cfcfcf;
+  letter-spacing: 0.05em;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Banteng Story', cursive;
   color: #cfcfcf;
+  letter-spacing: 0.05em;
+
 }
 
 .eam-badge {
