@@ -108,16 +108,6 @@ a:hover {
 body {
     font-family: Newsreader, serif;
 }
-.season-links a {
-    font-family: 'Banteg Story Regular', cursive;
-}
-.season-links a {
-display: inline-block;     
-text-decoration: none;
-padding: 0.25rem 0.5rem;
-position: absolute;
-}
-
 .season-links a:hover {
     text-decoration: underline;
     text-decoration-thickness: 2px;
