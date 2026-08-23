@@ -125,7 +125,7 @@ position: absolute;
 .tab {
     position: absolute;
 }
-.tab1 { top: 45px; left: 50px; }
+.tab1 { top: 45px; left: 40px; }
 .tab2 { top: 45px; left: 240px; }
 .tab3 { top: 45px; left: 455px; }
 .tab4 { top: 45px; left: 665px; }
