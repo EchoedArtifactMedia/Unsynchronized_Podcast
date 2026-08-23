@@ -135,10 +135,10 @@ position: absolute;
 .tab {
     position: absolute;
 }
-.tab1 { top: 40px; left: 90px; }
-.tab2 { top: 40px; left: 265px; }
-.tab3 { top: 40px; left: 470px; }
-.tab4 { top: 40px; left: 660px; }
+.tab1 { top: 30px; left: 135px; }
+.tab2 { top: 30px; left: 310px; }
+.tab3 { top: 30px; left: 485px; }
+.tab4 { top: 30px; left: 660px; }
 .tab a {
 font-family: 'Banteng Story Regular', cursive;
 font-size: 26px;
