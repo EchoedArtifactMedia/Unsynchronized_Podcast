@@ -135,8 +135,8 @@ position: absolute;
 .tab {
     position: absolute;
 }
-.tab1 { top: 30px; left: 135px; }
-.tab2 { top: 30px; left: 310px; }
+.tab1 { top: 30px; left: 120px; }
+.tab2 { top: 30px; left: 300px; }
 .tab3 { top: 30px; left: 485px; }
 .tab4 { top: 30px; left: 660px; }
 .tab a {
