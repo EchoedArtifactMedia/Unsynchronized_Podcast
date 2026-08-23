@@ -1,7 +1,7 @@
 body {
   padding-left: 60px;
   font-family: 'Newsreader', serif;
-background-image: url('newbackgroundcropped - dark blue.png');
+background-image: url('../../../core_assets/images/newbackgroundcropped - dark blue.png');
  background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
