@@ -26,7 +26,7 @@ line-height: 1.5em;
 color: #3A3E44;
 }
 .section-break {
-  height: 40px;
+  height: 20px;
   background-color: transparent;
 }
   .content {
@@ -135,10 +135,10 @@ position: absolute;
 .tab {
     position: absolute;
 }
-.tab1 { top: 30px; left: 135px; }
-.tab2 { top: 30px; left: 310px; }
-.tab3 { top: 30px; left: 485px; }
-.tab4 { top: 30px; left: 660px; }
+.tab1 { top: 45px; left: 100px; }
+.tab2 { top: 450px; left: 275px; }
+.tab3 { top: 45px; left: 455px; }
+.tab4 { top: 45px; left: 625px; }
 .tab a {
 font-family: 'Banteng Story Regular', cursive;
 font-size: 26px;
