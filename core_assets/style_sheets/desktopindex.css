@@ -125,9 +125,9 @@ position: absolute;
 .tab {
     position: absolute;
 }
-.tab1 { top: 45px; left: 30px; }
-.tab2 { top: 45px; left: 235px; }
-.tab3 { top: 45px; left: 450px; }
+.tab1 { top: 45px; left: 50px; }
+.tab2 { top: 45px; left: 240px; }
+.tab3 { top: 45px; left: 455px; }
 .tab4 { top: 45px; left: 665px; }
 .tab a {
 font-family: 'Banteng Story Regular', cursive;
