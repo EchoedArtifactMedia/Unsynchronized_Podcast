@@ -39,7 +39,6 @@ h4, h5, h6 { color: #5A5E65; }
 p {
   font-size: 1.2em;
   font-family: 'Newsreader', serif;
-line-height: 1.6em;
   color: #333;
 }
 
@@ -64,7 +63,6 @@ small, footer {
   max-width: 1300px;
   margin: 2rem auto;
   font-family: 'Newsreader', serif;
-  font-size: 1.2em;
   line-height: 1.6em;
   }
 .primary-links a {
@@ -98,7 +96,6 @@ opacity: 0.8;
   max-width: 900px;
   margin: 2rem auto;
   font-family: 'Newsreader', serif;
-  font-size: 1.2em;
   line-height: 2.5em;
   color: #333;
 }
