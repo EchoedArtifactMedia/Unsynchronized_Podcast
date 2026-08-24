@@ -40,6 +40,7 @@ p {
   font-size: 1.2em;
   font-family: 'Newsreader', serif;
 line-height: 1.6em;
+  color: #333;
 }
 
 small, footer {
@@ -55,7 +56,7 @@ small, footer {
 .clean-list li {
   margin-bottom: 0.6em;
   font-size: 1.2em;
-  color: #4B4F56;
+  color: #333;
 }
 .shownotes {
   padding: 1rem;
