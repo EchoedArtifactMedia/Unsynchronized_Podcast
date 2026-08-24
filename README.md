@@ -1,0 +1,1 @@
+This repository contains the source files used for the getunsynchronized.com (Unsynchronized podcast) web pages published by Echoed Artifact Media. All materials in this repository are proprietary and may not be reused, copied, or redistributed without explicit permission from Echoed Artifact Media.
