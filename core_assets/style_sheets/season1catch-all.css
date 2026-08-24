@@ -55,7 +55,7 @@ small, footer {
 
 .clean-list li {
   margin-bottom: 0.6em;
-  font-size: 1.2em;
+  font-size: 1em;
   color: #333;
 }
 .shownotes {
@@ -65,7 +65,7 @@ small, footer {
   margin: 2rem auto;
   font-family: 'Newsreader', serif;
   font-size: 1.2em;
-  line-height: 1.5;
+  line-height: 1.6em;
   }
 .primary-links a {
   font-size: 1.2em;
@@ -99,6 +99,6 @@ opacity: 0.8;
   margin: 2rem auto;
   font-family: 'Newsreader', serif;
   font-size: 1.2em;
-  line-height: 2.5;
+  line-height: 2.5em;
   color: #333;
 }
