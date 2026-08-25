@@ -3,7 +3,7 @@ body {
   font-family: 'Newsreader', serif;
 background-image: url('../../../core_assets/images/newbackgroundcropped - light teal.png');
  background-size: cover;
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
 }
