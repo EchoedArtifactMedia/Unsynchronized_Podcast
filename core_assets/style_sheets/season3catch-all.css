@@ -2,7 +2,7 @@ body {
   padding-left: 60px;
   font-family: 'Newsreader', serif;
 background-image: url('../../../core_assets/images/newbackgroundcropped - bleu clair.png');
- background-size: cover;
+background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
@@ -37,9 +37,7 @@ h3 { color: #4B4F56; }
 h4, h5, h6 { color: #5A5E65; }
 
 p {
-  font-size: 1.2em;
   font-family: 'Newsreader', serif;
-line-height: 1.6em;
   color: #333;
 }
 
@@ -49,13 +47,12 @@ small, footer {
 
 .clean-list {
   list-style-type: none;
-  margin-bottom: 0.6em; 
-  line-height: 1.2;
+  line-height: 1.2em;
 }
 
 .clean-list li {
   margin-bottom: 0.6em;
-  font-size: 1.2em;
+  font-size: 1em;
   color: #333;
 }
 .shownotes {
@@ -65,10 +62,10 @@ small, footer {
   margin: 2rem auto;
   font-family: 'Newsreader', serif;
   font-size: 1.2em;
-  line-height: 1.5;
+  line-height: 1.6em;
   }
 .primary-links a {
-  font-size: 1.2em;
+  font-size: 1em;
   font-family: 'Newsreader', serif;
   color: #5A6A73;
 }
@@ -99,6 +96,6 @@ opacity: 0.8;
   margin: 2rem auto;
   font-family: 'Newsreader', serif;
   font-size: 1.2em;
-  line-height: 2.5;
+  line-height: 2.5em;
   color: #333;
 }
