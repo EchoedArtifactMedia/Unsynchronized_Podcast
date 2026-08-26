@@ -7,9 +7,10 @@ html, body {
 }
 body {
   background-image: url("../images/newcolorizedbackground - season 1.png");
-  background-repeat: no-repeat;
-  background-position: top;
-  background-size: cover;
+background-position: top;
+background-size: contain;
+background-repeat: no-repeat;
+background-position: top center;
 }
 h1 {
   color: #3A3E44;
