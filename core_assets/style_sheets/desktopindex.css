@@ -4,24 +4,11 @@ html, body {
   height: auto;
 }
 body {
-    position: relative;
-    background-image: url("../images/newcolorizedbackground - season 1.png");
+    background-image: url("../images/newbackground2250.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top center;
     overflow-x: hidden;
-}
-body::after {
-    content: "";
-    position: absolute;
-    top: 750px;
-    left: 0;
-    width: 100%;
-    height: calc(100% - 750px);
-    background-image: url("../images/pagefiller-light teal.png");
-    background-repeat: repeat-y;
-    background-size: 100% auto;
-    z-index: -1;
 }
 h1 {
   color: #3A3E44;
