@@ -14,10 +14,10 @@ body {
 body::after {
     content: "";
     position: absolute;
-    top: 1500px;
+    top: 1000px;
     left: 0;
     width: 100%;
-    height: calc(100% - 1500px);
+    height: calc(100% - 1000px);
     background-image: url("../images/pagefiller-light teal.png");
     background-repeat: repeat-y;
     background-size: 100% auto;
