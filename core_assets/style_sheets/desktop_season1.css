@@ -1,15 +1,9 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  height: auto;
-  overflow-x: auto;
-  overflow-y: auto;
-}
 body {
-  background-image: url("../images/newcolorizedbackground - season 1.png");
-  background-repeat: no-repeat;
-  background-position: top;
-  background-size: cover;
+    background-image: url("../images/newbackground2250.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    overflow-x: hidden;
 }
 h1 {
   color: #3A3E44;
@@ -133,10 +127,10 @@ position: absolute;
 .tab {
     position: absolute;
 }
-.tab1 { top: 30px; left: 135px; }
-.tab2 { top: 30px; left: 310px; }
-.tab3 { top: 30px; left: 485px; }
-.tab4 { top: 30px; left: 660px; }
+.tab1 { top: 25px; left: 135px; }
+.tab2 { top: 25px; left: 310px; }
+.tab3 { top: 25px; left: 485px; }
+.tab4 { top: 25px; left: 660px; }
 .tab a {
 font-family: 'Banteng Story Regular', cursive;
 font-size: 26px;
