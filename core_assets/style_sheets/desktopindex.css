@@ -2,15 +2,26 @@ html, body {
   margin: 0;
   padding: 0;
   height: auto;
-  overflow-x: auto;
-  overflow-y: auto;
 }
 body {
-  background-image: url("../images/newcolorizedbackground - season 1.png");
-background-position: top;
-background-size: contain;
-background-repeat: no-repeat;
-background-position: top center;
+    position: relative;
+    background-image: url("../images/newcolorizedbackground - season 1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+    overflow-x: hidden;
+}
+body::after {
+    content: "";
+    position: absolute;
+    top: 1500px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 1500px);
+    background-image: url("../images/pagefiller-light teal.png");
+    background-repeat: repeat-y;
+    background-size: 100% auto;
+    z-index: -1;
 }
 h1 {
   color: #3A3E44;
