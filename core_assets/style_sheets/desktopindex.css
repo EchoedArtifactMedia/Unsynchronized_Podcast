@@ -109,10 +109,10 @@ body {
 .tab {
     position: absolute;
 }
-.tab1 { top: 30px; left: 135px; }
-.tab2 { top: 30px; left: 310px; }
-.tab3 { top: 30px; left: 485px; }
-.tab4 { top: 30px; left: 660px; }
+.tab1 { top: 25px; left: 135px; }
+.tab2 { top: 25px; left: 310px; }
+.tab3 { top: 25px; left: 485px; }
+.tab4 { top: 25px; left: 660px; }
 .tab a {
 font-family: 'Banteng Story Regular', cursive;
 font-size: 26px;
