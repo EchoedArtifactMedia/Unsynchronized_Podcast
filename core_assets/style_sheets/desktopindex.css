@@ -14,14 +14,14 @@ body {
 body::after {
     content: "";
     position: absolute;
-    top: 1000px;
+    top: 1500px;
     left: 0;
     width: 100%;
-    height: calc(100% - 1000px);
+    height: calc(100% - 1500px);
     background-image: url("../images/pagefiller-light teal.png");
     background-repeat: repeat-y;
     background-size: 100% auto;
-    z-index: -1;
+    z-index: 1;
 }
 h1 {
   color: #3A3E44;
