@@ -141,7 +141,7 @@ color: #333;
 .mobile-spacer{
   position: relative;
     width: 1500px; 
-    height: 150px; 
+    height: 250px; 
     margin: 0 auto;
 }  
 @media screen and (max-width: 768px) {
