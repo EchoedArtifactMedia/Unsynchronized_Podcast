@@ -114,7 +114,7 @@ opacity: 0.8;
   }
     .mobile-spacer{
   position: relative;
-    width: 1500px; 
+    width: auto; 
     height: 80px; 
     margin: 0 auto;
 }
