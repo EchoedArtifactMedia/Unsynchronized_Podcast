@@ -138,6 +138,12 @@ color: #333;
     height: 150px; 
     margin: 0 auto;
 }
+.mobile-spacer{
+  position: relative;
+    width: 1500px; 
+    height: 150px; 
+    margin: 0 auto;
+}  
 @media screen and (max-width: 768px) {
   .section-break {
     height: 60px;
