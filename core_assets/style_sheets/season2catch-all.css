@@ -19,11 +19,12 @@ background-color: rgba(255, 255, 255, 0.9);
     z-index: 1;
 }
 a {
-  color: #5A6A73;
-  text-decoration: underline;
+  color: #36506c;
+  text-decoration: none;
 }
 a:hover {
-  color: #6C6F7A;
+  color: #4a6887; 
+  text-decoration: underline;
 }
 a:visited {
   color: #707070;
