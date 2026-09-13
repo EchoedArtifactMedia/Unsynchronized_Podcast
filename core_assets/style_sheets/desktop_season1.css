@@ -8,11 +8,9 @@ body {
 h1 {
   color: #3A3E44;
 }
-
 h2 {
   color: #3A3E44;
 }
-
 p {
 font-size: 1.2em;
 margin-bottom: 1em;
@@ -41,7 +39,6 @@ h1 {
   margin-bottom: 0.6em; 
   line-height: 1.0;
 }
-
 .clean-list li {
   margin-bottom: 0.6em;
   font-size: 1.2em;
@@ -109,10 +106,10 @@ body {
 .tab {
     position: absolute;
 }
-.tab1 { top: 20px; left: 135px; }
-.tab2 { top: 20px; left: 310px; }
-.tab3 { top: 20px; left: 485px; }
-.tab4 { top: 20px; left: 660px; }
+.tab1 { top: 17px; left: 135px; }
+.tab2 { top: 17px; left: 310px; }
+.tab3 { top: 17px; left: 485px; }
+.tab4 { top: 17px; left: 660px; }
 .tab a {
 font-family: 'Banteng Story Regular', cursive;
 font-size: 26px;
@@ -124,7 +121,6 @@ display: inline-block;
 padding: 2px 4px;        
 color: #333;             
 }
-
 .tab a:hover {
     text-decoration: underline;
     text-decoration-thickness: 2px;
@@ -138,7 +134,6 @@ color: #333;
     height: 150px; 
     margin: 0 auto;
 }
-
 @media screen and (max-width: 768px) {
   .section-break {
     height: 60px;
@@ -175,11 +170,4 @@ color: #333;
   margin: 10px auto 20px auto;
   margin-bottom: 20px;
   max-width: 600px;
-}
-.eam-badge {
-  position: relative;
-  display: block;
-  max-height: 80px;
-  margin: 20px auto;
-  opacity: 0.8; 
 }
