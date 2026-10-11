@@ -76,6 +76,7 @@ margin-bottom: 40px;
 a {
   color: #36506c;
   text-decoration: none;
+line-height: 1.3em;
 }
 a:hover {
   color: #4a6887; 
