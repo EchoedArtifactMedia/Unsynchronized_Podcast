@@ -102,6 +102,9 @@ opacity: 0.8;
   line-height: 2.5;
   color: #333;
 }
+.participation-section { }
+.awards-section { }
+.media-section { }
 @media screen and (max-width: 768px) {
   .section-break {
     height: 60px;
