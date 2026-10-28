@@ -82,11 +82,10 @@ margin-bottom: 40px;
 }
 a {
   color: #2e4c6d;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   color: #4a6887; 
-  text-decoration: underline;
 }
 .fine-print {
   font-size: 0.75em;
