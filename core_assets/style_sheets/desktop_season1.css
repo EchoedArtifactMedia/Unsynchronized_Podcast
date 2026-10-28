@@ -77,11 +77,11 @@ a {
   color: #2e4c6d;
   text-decoration: none;
 line-height: 1.3em;
-    font-weight: 600;
+text-decoration: underline;
 }
 a:hover {
   color: #4a6887; 
-  text-decoration: underline;
+  
 }
 .fine-print {
   font-size: 0.75em;
